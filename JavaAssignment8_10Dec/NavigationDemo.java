@@ -1,4 +1,4 @@
-package pg;
+package JavaAssignment8_10Dec;
 
 import java.time.Duration;
 import org.openqa.selenium.WebDriver;
